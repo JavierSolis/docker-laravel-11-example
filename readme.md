@@ -1,11 +1,20 @@
-## Description
+<div align="center">
+    <img src=".readme_assets/logo.png" align="center" alt="drawing"/>
+
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/usuario/repo/releases) [![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT) [![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/usuario/repo/actions)
+
+</div>
+
+# **Docker+Laravel 11 (Basic Example)** <br>by [Javier Solis 🧑‍💻🤖🚀🎯🔍](#contacto)
 
 App made whit docker+laravel 11
 Example Basic, login, upload image, list
 
-## Instrution to setup Docker
+## Instruction to setup Docker
 
-## COPY Readme.md
+**Thanks to https://github.com/vshloda**
+
+---
 
 ## Environment Setup for the Latest Version of Laravel (PHP, Nginx, Laravel, MySql) Using Docker
 
@@ -109,3 +118,17 @@ docker compose run --rm artisan migrate
   ```
 
 ---
+
+# Contact
+
+<div align="center">
+    
+   <img src=".readme_assets/contact_img.png" width="90" align="center" alt="gato"/>
+
+#### Javier Solis
+
+👓 https://www.linkedin.com/in/android-developer-peru/
+
+💼 https://www.behance.net/JavierJSolis
+
+</div>
